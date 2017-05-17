@@ -1,0 +1,4 @@
+branch 1 commit
+~ branch 1 commit line 2
+
+! branch 1 commit end of file
