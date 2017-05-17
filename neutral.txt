@@ -1,0 +1,4 @@
+~ neutral file
+--- blank commit file
+
+branch2 ~ HEAD --- reset
